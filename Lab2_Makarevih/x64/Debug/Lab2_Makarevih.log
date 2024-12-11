@@ -1,0 +1,5 @@
+﻿  Lab2_Makarevih.cpp
+C:\Users\Lenovo\5 SEM\ОСиСП\Lab2_Makarevih\Lab2_Makarevih\Lab2_Makarevih.cpp(28,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Lenovo\5 SEM\ОСиСП\Lab2_Makarevih\Lab2_Makarevih\Lab2_Makarevih.cpp(78,56): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Lenovo\5 SEM\ОСиСП\Lab2_Makarevih\Lab2_Makarevih\Lab2_Makarevih.cpp(240,30): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Lab2_Makarevih.vcxproj -> C:\Users\Lenovo\5 SEM\ОСиСП\Lab2_Makarevih\x64\Debug\Lab2_Makarevih.exe
